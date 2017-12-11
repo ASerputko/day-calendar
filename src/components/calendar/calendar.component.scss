@@ -1,0 +1,19 @@
+.calendar-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #ececec;
+  width: 720px;
+  height: 720px;
+}
+
+.events {
+  height: 720px;
+  width: 620px;
+  padding: 0px 10px;
+  background-color: #F0F0F0;
+  border-color: #D1D1D1;
+  border-style: solid;
+  border-width: 1px;
+  box-sizing: border-box;
+  position: relative;
+}
