@@ -26,9 +26,8 @@ A minimalistic Webpack 2 ES6 boilerplate project.
 
 ## Start Dev Server
 
-1. `git clone https://github.com/jluccisano/webpack-es6-boilerplate.git`
-2. Run `npm install`
-3. Start the dev server using `npm start`
+1. Run `npm install`
+2. Start the dev server using `npm start`
 3. Open [http://localhost:9000](http://localhost:9000)
 
 
